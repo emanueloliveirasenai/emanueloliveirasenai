@@ -2,7 +2,7 @@
 
 <br>
 
-<img align="right" width="100" height="100" src="https://media.tenor.com/-qbSsW3ShogAAAAi/pizza-ninjas-pizza-pets.gif">
+<img align="right" width="150" height="150" src="https://media.tenor.com/-qbSsW3ShogAAAAi/pizza-ninjas-pizza-pets.gif">
 
 
 ## 📝 Aprendizado e Experiência:
