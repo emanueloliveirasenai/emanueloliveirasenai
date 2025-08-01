@@ -2,7 +2,8 @@
 
 <br>
 
-<img align="right" width="300" height="300" src="[https://tenor.com/vGnmpGwe9RQ.gif](https://media.tenor.com/-qbSsW3ShogAAAAj/pizza-ninjas-pizza-pets.gif)">
+<img align="right" width="100" height="100" src="https://media.tenor.com/-qbSsW3ShogAAAAi/pizza-ninjas-pizza-pets.gif">
+
 
 ## 📝 Aprendizado e Experiência:
 - 💻 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong>
