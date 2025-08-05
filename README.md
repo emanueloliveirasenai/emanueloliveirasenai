@@ -2,9 +2,6 @@
 
 <br>
 
-<img align="right" width="150" height="150" src="https://media.tenor.com/-qbSsW3ShogAAAAi/pizza-ninjas-pizza-pets.gif">
-
-
 ## 📝 Aprendizado e Experiência:
 - 💻 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong>
 - 💻 Conhecimento em <strong>Pacote Office</strong>
@@ -16,6 +13,7 @@
 <img align="center" alt="Emanuel-HTML" height="50" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img align="center" alt="Emanuel-CSS3" height="50" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <img align="center" alt="Emanuel-JAVASCRIPT" height="50" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Emanuel-GIT" height="50" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
 </div>
 
 ## 📈 Estatística do GitHub:
