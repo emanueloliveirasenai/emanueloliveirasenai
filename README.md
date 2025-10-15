@@ -14,6 +14,9 @@
 <img align="center" alt="Emanuel-CSS3" height="50" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <img align="center" alt="Emanuel-JAVASCRIPT" height="50" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Emanuel-GIT" height="50" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
+<img align="center" alt="Emnanuel-PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+          
+          
 </div>
 
 ## 📈 Estatística do GitHub:
